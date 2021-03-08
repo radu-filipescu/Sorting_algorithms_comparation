@@ -1,0 +1,58 @@
+                   Vector aleator
+HeapSort:                             498 ms
+QuickSort:                            289 ms
+BucketSort:                           191 ms
+BucketSort2:                          174 ms
+
+                   Vector sortat
+HeapSort:                             367 ms
+QuickSort:                            107 ms
+BucketSort:                           290 ms
+BucketSort2:                          103 ms
+
+                   Vector sortat in proportie de 75%
+HeapSort:                             379 ms
+QuickSort:                            112 ms
+BucketSort:                           295 ms
+BucketSort2:                          139 ms
+
+                   Vector sortat in proportie de 50%
+HeapSort:                             377 ms
+QuickSort:                            104 ms
+BucketSort:                           293 ms
+BucketSort2:                          139 ms
+
+                   Vector sortat descrescator 
+HeapSort:                             623 ms
+QuickSort:                            112 ms
+BucketSort:                           453 ms
+BucketSort2:                          107 ms
+
+                   Vector sortat descrescator in proportie de 75%
+HeapSort:                             462 ms
+QuickSort:                            175 ms
+BucketSort:                           373 ms
+BucketSort2:                          149 ms
+
+                   Vector sortat descrescator in proportie de 50%
+HeapSort:                             460 ms
+QuickSort:                            176 ms
+BucketSort:                           372 ms
+BucketSort2:                          148 ms
+
+                   Vector de tip 'munte'
+HeapSort:                             389 ms
+QuickSort:                            200 ms
+BucketSort:                           328 ms
+BucketSort2:                          184 ms
+
+
+
+
+BONUS
+
+STALINSORT este un algoritm sovietic de sortare,
+care garanteaza sortarea in O(n), indiferent de input
+eliminand din vector elementele care nu corespund
+
+STALINSORT:                           11 ms
