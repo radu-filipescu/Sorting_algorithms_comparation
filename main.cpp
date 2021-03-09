@@ -3,7 +3,6 @@
 
 using namespace std;
 
-ifstream fin( "input.in" );
 ofstream fout( "output.out" );
 
 /// 1. HEAPSORT ( alocare dinamica a memoriei cu vector )
